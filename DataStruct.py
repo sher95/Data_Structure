@@ -491,5 +491,3 @@ if __name__ == '__main__':
 
     print(f"shortest path between {start} end {end}:\t", route_grapg.get_shortest_path(start, end))
 """
-
-# Bubble sorting
