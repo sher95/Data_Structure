@@ -9,7 +9,7 @@ def get_squared_num(numbers):
 numbers = [2, 5, 8, 9]
 print(get_squared_num(numbers))"""
 
-# Array only dynamic in python
+# Array only dynamic in python and never use list as array
 import threading
 import time
 
