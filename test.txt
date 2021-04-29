@@ -1,1 +1,2 @@
 This is example of rebase
+So just ignore it
