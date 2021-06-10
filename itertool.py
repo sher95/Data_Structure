@@ -1,4 +1,4 @@
-from itertools import product, permutations
+from itertools import product, permutations, combinations
 
 # product
 a = [1, 2]
