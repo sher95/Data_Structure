@@ -46,6 +46,16 @@ def fib(m):
         print(c)
 
 fib(10)
+
+tuple() # we can change values in tuple by change to list using list() fnction
+list()
+set()
+
+a = (1,2,3,4,5,6,7,8)
+b = a[::2] # get every second elements
+b = a[::-1] # get reverse of elements(8,7,6,5,4,3,2,1)
+
+
 """
 # Recursion
 """import sys
